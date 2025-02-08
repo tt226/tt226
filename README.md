@@ -21,9 +21,9 @@
 ☕ **Fueling Up On:** Gatorade Blue  
 
 ## 🎯 Goals for 2025  
-- [ ] **Goal 1** Get better at debugging 
-- [ ] **Goal 2** Contribute to an open source project
-- [ ] **Goal 3** Create a scalable project for SDE 
+- [ ] Get better at debugging 
+- [ ] Contribute to an open source project
+- [ ] Create a scalable project for SDE 
 
 ## 🛠️ Here are some tools I’m using & loving:    
 💻 **Languages:** Java, Python, R, JavaScript, HTML, CSS  
