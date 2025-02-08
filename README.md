@@ -11,8 +11,8 @@
 
 ## 🌱 About Me  
 👋 Hey! I'm Tayyaba, a student developer learning Web Development & Data Science!  
-🐢 Going slow and steady   
-🎨 I need hobbies 
+🐢 Going slow and steady.  
+🎨 I need hobbies. Currently taking a class about Vampires in Video Games. 
 
 ## 💻 What I'm Currently Up To  
 🚀 **Learning:** Software Development Essentials, HCI, and Data Science Systems  
@@ -33,7 +33,7 @@ Here are some tools I’m using & loving:
 🐧 **OS & Dev Environments:** VS Code, R Studio, IntelliJ, Pycharm
 
 ## 🌎 Connect With Me  
-💼 LinkedIn: not yet 
+💼 LinkedIn: incoming 
 🌐 Personal Website: todo 
 📧 Email: eventually 
 
