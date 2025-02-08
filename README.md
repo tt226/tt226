@@ -1,16 +1,40 @@
 ## Hi there 👋
 
-<!--
-**tt226/tt226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+# 🌸 Hi there, I'm Tayyaba! 🌸  
+
+> "To start, press any key. Where's the any key?"✨  
+
+## 🌱 About Me  
+👋 Hey! I'm Tayyaba, a student developer learning Web Development & Data Science!  
+🐢 Going slow and steady   
+🎨 I need hobbies 
+
+## 💻 What I'm Currently Up To  
+🚀 **Learning:** Software Development Essentials, HCI, and Data Science Systems  
+🔨 **Building:** Unreliable Narrator   
+📖 **Reading:** The Design of Everyday Things by Don Norman   
+☕ **Fueling Up On:** Gatorade Blue  
+
+## 🎯 Goals for 2025  
+- [ ] **Goal 1** Get better at debugging 
+- [ ] **Goal 2** Contribute to an open source project
+- [ ] **Goal 3** Create a scalable project for SDE 
+
+## 🛠️ Technologies & Tools  
+Here are some tools I’m using & loving:  
+💻 **Languages:** Java, Python, R, JavaScript, HTML, CSS  
+🛠 **Frameworks & Tools:** Learning React 
+🎨 **Design & UI:** Figma   
+🐧 **OS & Dev Environments:** VS Code, R Studio, IntelliJ, Pycharm
+
+## 🌎 Connect With Me  
+💼 LinkedIn: not yet 
+🌐 Personal Website: todo 
+📧 Email: eventually 
+
+
