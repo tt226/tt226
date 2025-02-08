@@ -25,14 +25,13 @@
 - [ ] **Goal 2** Contribute to an open source project
 - [ ] **Goal 3** Create a scalable project for SDE 
 
-## 🛠️ Technologies & Tools  
-Here are some tools I’m using & loving:  
+## 🛠️ Here are some tools I’m using & loving:    
 💻 **Languages:** Java, Python, R, JavaScript, HTML, CSS  
 🛠 **Frameworks & Tools:** Learning React 
 🎨 **Design & UI:** Figma   
 🐧 **OS & Dev Environments:** VS Code, R Studio, IntelliJ, Pycharm
 
-## 🌎 Connect With Me  
+## 🌎 Connect With Me (soon)
 💼 LinkedIn: incoming 
 🌐 Personal Website: todo 
 📧 Email: eventually 
