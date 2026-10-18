@@ -1,39 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Tayyaba!
 
 
+## About Me
+I'm a Computer Science graduate from the University of Virginia, with a minor in Data Science.
 
+Currently working as a **Digital Operations Associate at Darden Business Publishing**, where I work on data analytics, data quality, and digital systems.
 
+Previously, I worked as a **Data Analytics Intern at the Virginia Department of Transportation (VDOT)**.
 
+Still learning, building, and figuring things out along the way.
 
-# 🌸 Hi there, I'm Tayyaba! 🌸  
+## What I'm Currently Up To
+- **Working:** Currently trying to understand entity resolution within e-commerce.
+- **Exploring:** Data engineering, backend development, and AI engineering.
+- **Building:** Projects involving APIs, automation, and data-driven systems.
+- **Reading:** The Design of Everyday Things by Don Norman.
+- **Learning:** Better ways to approach problem-solving and system design.
 
-> "To start, press any key. Where's the any key?"✨  
+## Goals
+- [ ] Get better at debugging and writing maintainable code
+- [ ] Contribute to an open-source project
+- [ ] Build more scalable backend and data engineering projects
+- [ ] Strengthen my understanding of software architecture and system design
 
-## 🌱 About Me  
-👋 Hey! I'm Tayyaba, a student developer learning Web Development & Data Science!  
-🐢 Going slow and steady.  
-🎨 I need hobbies. Currently taking a class about Vampires in Video Games. 
+## Tools & Technologies
+**Languages:** Python, Java, R, JavaScript, SQL, HTML, CSS
 
-## 💻 What I'm Currently Up To  
-🚀 **Learning:** Software Development Essentials, HCI, and Data Science Systems  
-🔨 **Building:** Unreliable Narrator   
-📖 **Reading:** The Design of Everyday Things by Don Norman   
-☕ **Fueling Up On:** Gatorade Blue  
+**Frameworks & Tools:** REST APIs, Git, Google Analytics 4, Google Tag Manager, ArcGIS Pro
 
-## 🎯 Goals for 2025  
-- [ ] Get better at debugging 
-- [ ] Contribute to an open source project
-- [ ] Create a scalable project for SDE 
+**Design & UI:** Figma
 
-## 🛠️ Here are some tools I’m using & loving:    
-💻 **Languages:** Java, Python, R, JavaScript, HTML, CSS  
-🛠 **Frameworks & Tools:** Learning React 
-🎨 **Design & UI:** Figma   
-🐧 **OS & Dev Environments:** VS Code, R Studio, IntelliJ, Pycharm
+**Development Environments:** VS Code, RStudio, IntelliJ IDEA, PyCharm
 
-## 🌎 Connect With Me (soon)
-💼 LinkedIn: incoming 
-🌐 Personal Website: todo 
-📧 Email: eventually 
-
-
+## Connect With Me
+- **LinkedIn:** [](https://www.linkedin.com/in/tayyaba-tahir-0440872b4/)
