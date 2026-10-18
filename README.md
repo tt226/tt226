@@ -33,4 +33,4 @@ Still learning, building, and figuring things out along the way.
 **Development Environments:** VS Code, RStudio, IntelliJ IDEA, PyCharm
 
 ## Connect With Me
-- **LinkedIn:** [](https://www.linkedin.com/in/tayyaba-tahir-0440872b4/)
+- **LinkedIn:** [tayyaba_tahir](https://www.linkedin.com/in/tayyaba-tahir-0440872b4/)
